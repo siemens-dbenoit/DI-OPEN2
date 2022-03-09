@@ -1,0 +1,16 @@
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\TIASaver.exe.config
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\TIASaver.exe
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\TIASaver.pdb
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\Siemens.Engineering.dll
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\Siemens.Engineering.Hmi.dll
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\Siemens.Engineering.pdb
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\Siemens.Engineering.xml
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\bin\Debug\Siemens.Engineering.Hmi.xml
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.csprojAssemblyReference.cache
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.FMain.resources
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.Properties.Resources.resources
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.csproj.GenerateResource.cache
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.csproj.CoreCompileInputs.cache
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.csproj.CopyComplete
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.exe
+C:\Users\SITRAIN\source\repos\TIASaver\TIASaver\obj\Debug\TIASaver.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PackageConfiguration xmlns="http://www.siemens.com/automation/Openness/AddIn/Publisher/V16">
+  <Author>Sitrain</Author>
+  <Description>DI-OPEN2_AddIn</Description>
+  <AddInVersion>V16.00.00</AddInVersion>
+  <Product>
+    <Name>OPEN2AddIn</Name>
+    <Id>08154711</Id>
+    <Version>0.0.1.0</Version>
+  </Product>
+  <FeatureAssembly>
+    <AssemblyInfo>
+      <Assembly>D:\Kurse\AddInForTIA\AddInForTIA\bin\Debug\AddInForTIA.dll</Assembly>
+      <Pdb>D:\Kurse\AddInForTIA\AddInForTIA\bin\Debug\AddInForTIA.pdb</Pdb>
+    </AssemblyInfo>
+  </FeatureAssembly>
+  <DisplayInMultiuser />
+  <RequiredPermissions>
+    <TIAPermissions>
+      <TIA.ReadOnly />
+    </TIAPermissions>
+    <SecurityPermissions>
+      <System.Security.Permissions.UIPermission/>
+      <System.Security.Permissions.FileIOPermission>
+      </System.Security.Permissions.FileIOPermission>
+      <System.Security.Permissions.FileDialogPermission>
+      </System.Security.Permissions.FileDialogPermission>
+      <System.Security.Permissions.EnvironmentPermission />
+      <Siemens.Engineering.AddIn.Permissions.ProcessStartPermission/>
+      <System.Net.WebPermission />
+    </SecurityPermissions>
+  </RequiredPermissions>
+</PackageConfiguration>
