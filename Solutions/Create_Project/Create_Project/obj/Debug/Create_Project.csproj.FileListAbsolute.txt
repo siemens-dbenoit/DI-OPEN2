@@ -46,3 +46,15 @@ D:\Open2\002_Dozent\Create_Project\Create_Project\obj\Debug\Create_Project.cspro
 D:\Open2\002_Dozent\Create_Project\Create_Project\obj\Debug\Create_Project.csproj.CopyComplete
 D:\Open2\002_Dozent\Create_Project\Create_Project\obj\Debug\Create_Project.exe
 D:\Open2\002_Dozent\Create_Project\Create_Project\obj\Debug\Create_Project.pdb
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\bin\Debug\Create_Project.exe.config
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\bin\Debug\Create_Project.exe
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\bin\Debug\Create_Project.pdb
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\bin\Debug\Siemens.Engineering.dll
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\bin\Debug\Siemens.Engineering.Hmi.dll
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\bin\Debug\Siemens.Engineering.xml
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\bin\Debug\Siemens.Engineering.Hmi.xml
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\obj\Debug\Create_Project.csprojAssemblyReference.cache
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\obj\Debug\Create_Project.csproj.CoreCompileInputs.cache
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\obj\Debug\Create_Project.csproj.CopyComplete
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\obj\Debug\Create_Project.exe
+D:\00_DIOPEN\DI_OPEN2_GitRepo\Solutions\Create_Project\Create_Project\obj\Debug\Create_Project.pdb
